@@ -44,11 +44,11 @@ Este proyecto demuestra cómo funciona una simulación educativa de un ataque de
 
 ## Resultados Principales 📊
 
-| Elemento       | Resultado                          |
-|-----------------|------------------------------------|
-| **Interfaz**   | Réplica convincente del login de Facebook. |
+| Elemento       |                         Resultado                            |
+|----------------|--------------------------------------------------------------|
+| **Interfaz**   | Réplica convincente del login de Facebook.                   |
 | **Captura**    | Credenciales almacenadas correctamente en `credentials.txt`. |
-| **Servidor**   | Proyecto funcional en servidor local con PHP. |
+| **Servidor**   | Proyecto funcional en servidor local con PHP.                |
 
 - **Hallazgo Destacado**:  
   - Flujo completo de simulación de phishing configurado con éxito.  
@@ -61,7 +61,7 @@ Este proyecto demuestra cómo funciona una simulación educativa de un ataque de
 
 | Página Principal         | Credenciales Capturadas  |
 |--------------------------|--------------------------|
-| ![Login Falso](results/screenshots/login-page.png) | ![Log.txt](results/screenshots/credentials-file.png) |
+| ![Login Falso](result/sreenshoot/login-page.png) | ![Credentials.txt](result/sreenshoot/credentials-file.png) |
 
 ---
 
