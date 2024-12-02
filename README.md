@@ -75,7 +75,7 @@ Este proyecto demuestra cómo funciona una simulación educativa de un ataque de
 
 ## Autor 👨‍💻
 
-**[Tu Nombre]**  
+**[Jorge Balarezo Cardenas]**  
 - LinkedIn: [Enlace a tu perfil](https://www.linkedin.com/in/jorge-balarezo-cardenas/) 
 - Email: [jbalarezocarden@gmail.com]
 
